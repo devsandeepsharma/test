@@ -2,4 +2,7 @@ Hello,
 
 This is a practice project,
 
+Pizza, 
+samosa
+
 by Sandeep,
